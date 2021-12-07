@@ -1,6 +1,8 @@
 HI! I'M FREDERICO...
 ##
 ![Frederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

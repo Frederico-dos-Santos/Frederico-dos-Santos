@@ -1,7 +1,9 @@
 HI! I'M FREDERICO...
 ##
-![Frederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-dos-Santos&layout=compact&theme=tokyonight)](https://github.com/Frederico-dos-Santos/github-readme-stats)
+<p align="center">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos4&theme=tokyonight&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-dos-Santos4&layout=compact&theme=tokyonight"/>
+</p>
 
 
 

@@ -1,7 +1,7 @@
 HI! I'M FREDERICO...
 ##
 ![Frederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>

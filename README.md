@@ -1,7 +1,7 @@
 HI! I'M FREDERICO...
 ##
 <p align="center">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos4&theme=vision-friendly-dark&show_icons=true" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Frederico-dos-Santos&theme=vision-friendly-dark&show_icons=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-dos-Santos&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
